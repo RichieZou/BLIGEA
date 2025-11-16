@@ -1,4 +1,8 @@
-The source code for paper "A sparse large-scale multi-objective evolutionary optimization based on bi-level interactive grouping".
+This is code for paper tiltled "A Sparse Large-scale Multi-objective Evolutionary Optimization based on Bi-level Interactive Grouping"
 
-Please feel free to contact me if you have issues regarding to these code.
-Email: zouyingjie03@gmail.com
+
+The platform to run this code is PlatEMO 4.1 and above.
+
+Feel free to contact me if you have any issues related to the code.
+
+Email: richiezou@foxmail.com
