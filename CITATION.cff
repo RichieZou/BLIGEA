@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "BLIGEA"
+authors:
+  - family-names: Zou
+    given-names: Yingjie
+repository-code: "https://github.com/RichieZou/BLIGEA"
+preferred-citation:
+  type: article
+  title: "A sparse large-scale multi-objective evolutionary optimization based on bi-level interactive grouping"
+  authors:
+    - family-names: Zou
+      given-names: Yingjie
+    - family-names: Zou
+      given-names: Juan
+    - family-names: Wang
+      given-names: Shiting
+    - family-names: Liu
+      given-names: Yuan
+    - family-names: Yang
+      given-names: Shengxiang
+  journal: "Swarm and Evolutionary Computation"
+  volume: 99
+  start: 102209
+  year: 2025
+  month: 12
+  publisher:
+    name: Elsevier
+  doi: "10.1016/j.swevo.2025.102209"
